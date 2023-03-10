@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/sprint.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replaces the dash with a sprint which costs energy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/sprint.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sprint"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/chainsaw.harvestingtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chainsaw"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/chainsaw.harvestingtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great for chopping down trees. Try to avoid massacres."
+    }
+  }
+]

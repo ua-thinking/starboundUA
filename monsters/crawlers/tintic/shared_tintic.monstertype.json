@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/tintic/electrictintic.monstertype": [
+        "/description"
+      ],
+      "monsters/crawlers/tintic/tintic.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It doesn't seem to eat or sleep... Is it a machine?"
+    }
+  }
+]

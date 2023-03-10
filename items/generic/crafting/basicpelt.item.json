@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/basicpelt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's the pelt of an animal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/basicpelt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pelt"
+    }
+  }
+]

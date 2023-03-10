@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/Bioluminescence/lighthelm/lighthelm.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluorescent Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/Bioluminescence/lighthelm/lighthelm.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Makes you look like a walking lightbulb. But hey, function over fashion!"
+    }
+  }
+]

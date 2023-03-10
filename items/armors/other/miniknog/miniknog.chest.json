@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/miniknog/miniknog.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mass-produced chest armour for loyal Miniknog soldiers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/miniknog/miniknog.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miniknog Chest"
+    }
+  }
+]

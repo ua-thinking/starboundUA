@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/froggfossil3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised pair of Frogg legs."
+    }
+  }
+]

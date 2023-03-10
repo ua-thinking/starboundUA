@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/volcanic/firelord/firelord.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Lord's Helm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/volcanic/firelord/firelord.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rumours say one can hear the whispers of the past wearing this helmet."
+    }
+  }
+]

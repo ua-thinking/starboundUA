@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Babie tree."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little Trees."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little trees."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Little tree."
+    }
+  }
+]

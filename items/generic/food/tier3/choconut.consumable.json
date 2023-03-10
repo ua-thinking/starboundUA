@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/choconut.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious fusion of coconut and chocolate in donut form."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/choconut.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choconut"
+    }
+  }
+]

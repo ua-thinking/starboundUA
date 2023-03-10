@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/mysteriousalienfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fossilised skull of an unidentified life-form."
+    }
+  }
+]

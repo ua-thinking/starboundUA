@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/fairy/fairy.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dance top, ensures 300% less jiggle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/fairy/fairy.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dance Top"
+    }
+  }
+]

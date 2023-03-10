@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/summer/summer.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Summer Top"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/summer/summer.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Summer's coming! Get ready for it with this fashionable top."
+    }
+  }
+]

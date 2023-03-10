@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/steamspring.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steamspring"
+    }
+  }
+]

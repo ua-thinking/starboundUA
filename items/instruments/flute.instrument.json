@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/flute.instrument": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flute. But is it magic?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/flute.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flute"
+    }
+  }
+]

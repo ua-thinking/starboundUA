@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/electrified/electrified.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electrified"
+    }
+  }
+]

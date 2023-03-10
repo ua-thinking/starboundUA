@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/beamDownText"
+      ],
+      "interface/warping/shipteleporter.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Down"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/deployText"
+      ],
+      "interface/warping/shipteleporter.config": [
+        "/destinations/1/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deploy Mech"
+    }
+  }
+]

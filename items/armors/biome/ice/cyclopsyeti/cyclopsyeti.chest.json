@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/ice/cyclopsyeti/cyclopsyeti.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chestpiece made from a cyclops yeti."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/ice/cyclopsyeti/cyclopsyeti.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cyclops Yeti Shirt"
+    }
+  }
+]

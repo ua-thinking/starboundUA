@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/reed/reed.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather fetching hat made from reeds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/reed/reed.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed Hat"
+    }
+  }
+]

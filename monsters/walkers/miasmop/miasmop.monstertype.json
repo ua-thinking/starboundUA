@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/miasmop/miasmop.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prolonged exposure to its pungent fumes will knock you out."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/spacesuit/spacesuit.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some old fashioned spacesuit trousers!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/spacesuit/spacesuit.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spacesuit Trousers"
+    }
+  }
+]

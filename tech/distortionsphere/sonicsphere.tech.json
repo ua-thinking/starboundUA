@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/sonicsphere.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perform a sphere dash by holding ^green;[F] ^white;to transform!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/distortionsphere/sonicsphere.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sonic Sphere"
+    }
+  }
+]

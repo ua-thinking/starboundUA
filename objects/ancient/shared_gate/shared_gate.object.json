@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientgate/ancientgate.object": [
+        "/description"
+      ],
+      "objects/ancient/monolithgate/monolithgate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious ancient gate."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/koto.instrument": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A koto. For that oriental sound."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/koto.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Koto"
+    }
+  }
+]

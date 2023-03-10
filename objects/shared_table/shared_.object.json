@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertable3/bunkertable3.object": [
+        "/humanDescription"
+      ],
+      "objects/space/astrotable/astrotable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An industrial looking table."
+    }
+  }
+]

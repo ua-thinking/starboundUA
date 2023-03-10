@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/fairy/fairy.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful wings, they make me feel pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/fairy/fairy.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fairy Wings"
+    }
+  }
+]

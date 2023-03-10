@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/rage/ragefood.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonus Damage"
+    }
+  }
+]

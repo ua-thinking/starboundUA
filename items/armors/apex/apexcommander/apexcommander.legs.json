@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/apex/apexcommander/apexcommander.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Commander Trousers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/apex/apexcommander/apexcommander.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Standard issue Apex commander trousers."
+    }
+  }
+]

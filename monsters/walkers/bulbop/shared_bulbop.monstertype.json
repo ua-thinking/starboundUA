@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/bulbop/bulbop.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/bulbop/poisonbulbop.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like a large and chunky leek. It bleeds when you cut it, though."
+    }
+  }
+]

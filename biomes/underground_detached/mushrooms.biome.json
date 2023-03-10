@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/mushrooms.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushrooms"
+    }
+  }
+]

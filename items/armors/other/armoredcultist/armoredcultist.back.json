@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/armoredcultist/armoredcultist.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A harness with artificial tentacles attached."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/armoredcultist/armoredcultist.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cultist General Tentacles"
+    }
+  }
+]

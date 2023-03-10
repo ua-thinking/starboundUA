@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/clarinet.instrument": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clarinet. Try not to squeak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/clarinet.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clarinet"
+    }
+  }
+]

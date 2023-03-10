@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/copperladder.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A copper ladder."
+    }
+  }
+]

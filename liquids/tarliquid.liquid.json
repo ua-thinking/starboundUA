@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/tarliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick, gooey, crude oil."
+    }
+  }
+]

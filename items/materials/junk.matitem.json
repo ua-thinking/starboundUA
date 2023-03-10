@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old pile of junk."
+    }
+  }
+]

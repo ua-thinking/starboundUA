@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/perfect/perfect.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfect breastplate. Almost too perfect."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/perfect/perfect.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect Breastplate"
+    }
+  }
+]

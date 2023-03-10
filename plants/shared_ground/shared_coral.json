@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/groundocean/seabush/coral.bush": [
+        "/description"
+      ],
+      "plants/grass/ground/decorative/corals/corals.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral."
+    }
+  }
+]

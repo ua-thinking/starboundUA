@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground/underground3d.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underground3d"
+    }
+  }
+]

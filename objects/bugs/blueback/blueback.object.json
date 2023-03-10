@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/blueback/blueback.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blueback"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/blueback/blueback.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blue bug has sharp little teeth."
+    }
+  }
+]

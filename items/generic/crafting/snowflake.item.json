@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/snowflake.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfectly preserved snowflake. They say no two of these are ever the same."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/snowflake.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowflake"
+    }
+  }
+]

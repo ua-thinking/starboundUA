@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/snuffish/poisonsnuffish.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/snuffish/snuffish.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "They attack anyone that surprises them, and they're easily surprised."
+    }
+  }
+]

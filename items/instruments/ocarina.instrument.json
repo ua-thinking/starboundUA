@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/ocarina.instrument": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ocarina. Make sure you have time to practise."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/ocarina.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ocarina"
+    }
+  }
+]

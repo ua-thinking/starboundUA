@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/hylotl/hylotl-kimono/kimono.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek traditional kimono."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/hylotl/hylotl-kimono/kimono.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kimono Skirt"
+    }
+  }
+]

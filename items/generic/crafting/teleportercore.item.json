@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/teleportercore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rare, hi-tech key component of a personal teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/teleportercore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter Core"
+    }
+  }
+]

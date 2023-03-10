@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/floranshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/floranshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These leaves are surprisingly resilient."
+    }
+  }
+]

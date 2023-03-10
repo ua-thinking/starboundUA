@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/violiumsample/violiumsample.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"A perfect sample of a violium ore.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/violiumsample/violiumsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violium Sample"
+    }
+  }
+]

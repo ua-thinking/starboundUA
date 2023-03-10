@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/gasgiant/gasgiant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gasgiant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/gasgiant/gasgiant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bugs float on updrafts of poisonous gases."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military issue combat jacket, designed for a medic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combat Medic Chest"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychestdrawerlarge/scorchedcitychestdrawerlarge.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitychestdrawersmall/scorchedcitychestdrawersmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage is always useful!"
+    }
+  }
+]

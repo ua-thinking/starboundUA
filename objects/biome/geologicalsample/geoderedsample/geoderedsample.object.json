@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/geoderedsample/geoderedsample.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty, red geode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/geoderedsample/geoderedsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Geode Sample"
+    }
+  }
+]

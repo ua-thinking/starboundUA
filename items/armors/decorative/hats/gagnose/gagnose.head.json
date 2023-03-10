@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/gagnose/gagnose.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A round gag nose. It's meant to be funny, but it really isn't."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/gagnose/gagnose.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gag Nose"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/floranfossil3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised pair of Floran legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/floranfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Legs"
+    }
+  }
+]

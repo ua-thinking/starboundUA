@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/feathercrown.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feathercrown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/feathercrown.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feathercrown, you have to pluck it before consuming."
+    }
+  }
+]

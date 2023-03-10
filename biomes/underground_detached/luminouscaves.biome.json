@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/luminouscaves.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Luminous Caves"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/tungstensample/tungstensample.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"A perfect sample of a tungsten ore.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/tungstensample/tungstensample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Sample"
+    }
+  }
+]

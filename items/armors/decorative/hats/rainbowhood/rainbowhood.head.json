@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/rainbowhood/rainbowhood.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hood in all the colours of the rainbow. Glorious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/rainbowhood/rainbowhood.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Hood"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/bouncy/bouncy.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bouncy"
+    }
+  }
+]

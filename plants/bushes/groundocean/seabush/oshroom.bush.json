@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/groundocean/seabush/oshroom.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oshroom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/groundocean/seabush/oshroom.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oshroom."
+    }
+  }
+]

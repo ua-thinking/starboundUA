@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/24/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "For over 500 years we have stood proud here on Earth, drawing together races of all kinds in the name of peace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/28/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Huh? What was that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/23/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My fellow Protectors... Today we come together to witness the Protectorate grow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/25/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Our task: to protect our fellow beings; to support, house, and educate those that seek our aid, and to foster accord between those that aspire to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/27/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;Matter Manipulator^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/26/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Today, in the name of peace, we welcome our newest compatriots, and present them each with our greatest tool..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/30/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wha- What the..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/intro/introstage.cinematic": [
+        "/panels/33/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You, Graduate! Take the Manipulator and run! Get to safety!"
+    }
+  }
+]

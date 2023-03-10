@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/crutter/crutter.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its poison is deadly even in small doses."
+    }
+  }
+]

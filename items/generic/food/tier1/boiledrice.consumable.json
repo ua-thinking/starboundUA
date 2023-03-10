@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/boiledrice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boiled Rice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/boiledrice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light and fluffy."
+    }
+  }
+]

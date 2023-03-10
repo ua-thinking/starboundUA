@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/atmosphere/atmosphere.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Atmosphere"
+    }
+  }
+]

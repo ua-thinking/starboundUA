@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/hemogoblinhead/electrichemogoblinhead.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/hemogoblinhead/hemogoblinhead.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The front half of a Hemogoblin can move independently, but it's still only half a monster."
+    }
+  }
+]

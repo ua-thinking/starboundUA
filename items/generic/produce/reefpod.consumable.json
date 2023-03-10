@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/reefpod.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fruit of the ocean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/reefpod.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reefpod"
+    }
+  }
+]

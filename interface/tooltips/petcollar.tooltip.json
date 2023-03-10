@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/petcollar.tooltip": [
+        "/instructionLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip to capture pod with right-click"
+    }
+  }
+]

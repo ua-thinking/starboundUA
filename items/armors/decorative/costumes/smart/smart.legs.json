@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/smart/smart.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smart layered skirt. How fashionable!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/smart/smart.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smart Skirt"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/ringram/iceringram.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/ringram/ringram.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ringram's horns start growing from birth and never stop."
+    }
+  }
+]

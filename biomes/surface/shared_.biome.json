@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/lunarbase.biome": [
+        "/friendlyName"
+      ],
+      "biomes/surface/moon.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moon"
+    }
+  }
+]

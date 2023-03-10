@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/plutoniumsample/plutoniumsample.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"A perfect sample of a plutonium ore.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/plutoniumsample/plutoniumsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plutonium Sample"
+    }
+  }
+]

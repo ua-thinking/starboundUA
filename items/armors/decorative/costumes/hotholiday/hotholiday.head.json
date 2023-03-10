@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/hotholiday/hotholiday.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holiday Hat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/hotholiday/hotholiday.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The classic festive hat!"
+    }
+  }
+]

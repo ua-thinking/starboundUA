@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/ocean/beachcreeper/beachcreeper.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creepling Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/ocean/beachcreeper/beachcreeper.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look how creepy those eyes are!"
+    }
+  }
+]

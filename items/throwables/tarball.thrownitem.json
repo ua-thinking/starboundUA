@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/tarball.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being hit by one of these is sticky."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/tarball.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tarball"
+    }
+  }
+]

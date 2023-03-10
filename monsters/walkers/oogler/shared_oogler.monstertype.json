@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/oogler/fireoogler.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/oogler/oogler.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears mystified when encountering new life forms. You can't help but feel watched."
+    }
+  }
+]

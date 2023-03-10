@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/corals/corals.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssharp coral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/corals/corals.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Coral."
+    }
+  }
+]

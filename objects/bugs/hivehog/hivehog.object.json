@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/hivehog/hivehog.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hivehog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/hivehog/hivehog.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bug never stops eating."
+    }
+  }
+]

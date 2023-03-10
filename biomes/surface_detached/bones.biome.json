@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface_detached/bones.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bones"
+    }
+  }
+]

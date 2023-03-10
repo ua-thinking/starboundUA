@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/aridgrass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry, crunchy grass."
+    }
+  }
+]

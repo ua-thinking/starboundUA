@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dependable armour is a merc's best friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary's Helm"
+    }
+  }
+]

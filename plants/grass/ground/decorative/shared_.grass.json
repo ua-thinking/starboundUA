@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/slime/slime.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssticky."
+    }
+  }
+]

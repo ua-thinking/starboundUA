@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/grass.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lush, thick grass is growing here."
+    }
+  }
+]

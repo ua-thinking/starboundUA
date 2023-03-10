@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperladder.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A copper ladder"
+    }
+  }
+]

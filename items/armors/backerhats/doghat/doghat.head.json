@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backerhats/doghat/doghat.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dog Hat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backerhats/doghat/doghat.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you can look like a dog!"
+    }
+  }
+]

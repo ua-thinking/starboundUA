@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/painttool.painttool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primary fire applies paint, secondary changes colour. ^green;Quick select with [Y] key."
+    }
+  }
+]

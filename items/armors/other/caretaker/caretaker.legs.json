@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/caretaker/caretaker.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caretaker Trousers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/caretaker/caretaker.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some widely draped caretaker's trousers."
+    }
+  }
+]

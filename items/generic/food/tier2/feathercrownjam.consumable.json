@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/feathercrownjam.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sweet and flavoursome preserve, precious among Avians."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/feathercrownjam.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feathercrown Jam"
+    }
+  }
+]

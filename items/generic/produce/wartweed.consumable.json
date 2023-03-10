@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/wartweed.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wartweed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/wartweed.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warty but not very weedy."
+    }
+  }
+]

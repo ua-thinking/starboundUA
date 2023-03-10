@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/silverarmor/silverarmor.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/silverarmor/silverarmor.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay shiny wearing this silver helmet."
+    }
+  }
+]

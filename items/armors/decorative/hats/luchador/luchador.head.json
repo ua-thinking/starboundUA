@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/luchador/luchador.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Luchador Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/luchador/luchador.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrestle your way to glory with this stylish luchador mask."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/giantflowers/buzzy/buzzy.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cute insect hat with little antennae! How adorable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/giantflowers/buzzy/buzzy.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buzzy Hat"
+    }
+  }
+]

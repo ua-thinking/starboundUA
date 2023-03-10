@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/floran/floran-tier4/florantier4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A skirt made from leather, bound with durasteel thread."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/floran/floran-tier4/florantier4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter's Skirt"
+    }
+  }
+]

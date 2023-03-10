@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/fuel.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The instability of this Erchius-infused liquid makes it a valuable fuel."
+    }
+  }
+]

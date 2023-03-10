@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/diodia.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Diodia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/diodia.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Diodia, tastes like copper."
+    }
+  }
+]

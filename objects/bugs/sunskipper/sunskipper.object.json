@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/sunskipper/sunskipper.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sunskipper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/sunskipper/sunskipper.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pretty bug loves sunshine."
+    }
+  }
+]

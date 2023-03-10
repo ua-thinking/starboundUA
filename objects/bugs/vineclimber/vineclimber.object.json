@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/vineclimber/vineclimber.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its legs look like intertwining vines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bugs/vineclimber/vineclimber.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vineclimber"
+    }
+  }
+]

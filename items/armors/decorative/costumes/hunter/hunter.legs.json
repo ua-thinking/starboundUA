@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/hunter/hunter.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great protection... unless it has teeth... or mandibles... or stingers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/hunter/hunter.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter's Trousers"
+    }
+  }
+]

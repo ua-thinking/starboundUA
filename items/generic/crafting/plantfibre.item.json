@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/plantfibre.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A set of plant fibres."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/plantfibre.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant Fibre"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/rainbowood/rainbowwood.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Wood Shirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/costumes/rainbowood/rainbowwood.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wooden chest makes me feel like a tree."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medic's military backpack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic Backpack"
+    }
+  }
+]

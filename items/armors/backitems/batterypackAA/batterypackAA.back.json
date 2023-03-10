@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/batterypackAA/batterypackAA.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AA Battery Pack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/batterypackAA/batterypackAA.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "So that you always look energised!"
+    }
+  }
+]

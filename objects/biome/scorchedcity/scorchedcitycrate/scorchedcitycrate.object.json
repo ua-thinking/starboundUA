@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Crate"
+    }
+  }
+]

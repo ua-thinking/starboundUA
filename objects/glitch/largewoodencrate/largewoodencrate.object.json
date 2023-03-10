@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A huge crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fine wooden box."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A wooden crate."
+    }
+  }
+]

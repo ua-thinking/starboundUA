@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/copperarmor/copperarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A practical pair of copper greaves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/copperarmor/copperarmor.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Greaves"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/glowstickorange.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creates an orange bioluminescent glow when thrown!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/glowstickorange.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orange Glowstick"
+    }
+  }
+]

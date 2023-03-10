@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/floran/floran-pelt/floranpelt.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insulated with plants to keep you warm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/floran/floran-pelt/floranpelt.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pelt Chest"
+    }
+  }
+]

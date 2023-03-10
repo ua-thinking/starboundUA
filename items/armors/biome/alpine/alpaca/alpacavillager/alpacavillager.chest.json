@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/alpine/alpaca/alpacavillager/alpacavillager.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Alpaca Real Torso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/alpine/alpaca/alpacavillager/alpacavillager.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torso is made from actual Alpaca."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty scaffolding. It doesn't look safe."
+    }
+  }
+]

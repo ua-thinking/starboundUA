@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/shroomdisguise/shroomdisguise.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shroom Disguise"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/shroomdisguise/shroomdisguise.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shroom Disguise Mask"
+    }
+  }
+]

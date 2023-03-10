@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/ironavianhelmet/ironavianhelmet.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An aerodynamically designed helmet - for the space traveller in a hurry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/ironavianhelmet/ironavianhelmet.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aerohelm"
+    }
+  }
+]

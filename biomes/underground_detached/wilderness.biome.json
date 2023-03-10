@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/wilderness.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wilderness"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/syringe.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Syringe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/syringe.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This could be used for making stim packs."
+    }
+  }
+]

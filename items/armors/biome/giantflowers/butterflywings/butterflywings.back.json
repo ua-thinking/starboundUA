@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/giantflowers/butterflywings/butterflywings.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Butterfly Wings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/giantflowers/butterflywings/butterflywings.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally I can be a fairy!"
+    }
+  }
+]

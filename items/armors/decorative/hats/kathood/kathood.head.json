@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/kathood/kathood.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large hood, with pointed ears attached."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/kathood/kathood.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hood With Ears"
+    }
+  }
+]

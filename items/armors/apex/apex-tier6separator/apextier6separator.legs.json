@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/apex/apex-tier6separator/apextier6separator.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frontliner's Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/apex/apex-tier6separator/apextier6separator.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Profoundly scary shoes."
+    }
+  }
+]

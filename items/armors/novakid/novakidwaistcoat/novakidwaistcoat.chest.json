@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/novakid/novakidwaistcoat/novakidwaistcoat.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For the smooth-dressing space farer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/novakid/novakidwaistcoat/novakidwaistcoat.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Formal Waistcoat"
+    }
+  }
+]

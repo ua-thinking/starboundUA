@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/scorchedcity/deadbeatthugspandex/deadbeatthugspandex.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worn leather jacket with shoulder pads."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/scorchedcity/deadbeatthugspandex/deadbeatthugspandex.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadbeat Thug Jacket"
+    }
+  }
+]

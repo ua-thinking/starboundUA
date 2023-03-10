@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avian/avianhistory1.codex": [
+        "/description"
+      ],
+      "codex/avian/avianhistory2.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An excerpt from the Avian holy book."
+    }
+  }
+]

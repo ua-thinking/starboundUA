@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/cookedbacon.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooked Bacon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/cookedbacon.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salty, crispy alien bacon."
+    }
+  }
+]

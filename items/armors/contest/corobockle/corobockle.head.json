@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/contest/corobockle/corobockle.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A little person, to keep your head warm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/contest/corobockle/corobockle.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corobockle"
+    }
+  }
+]

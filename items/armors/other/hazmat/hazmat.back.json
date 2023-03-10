@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/hazmat/hazmat.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hazmat airtank, but it's empty unfortunately."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/hazmat/hazmat.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hazmat Airtank"
+    }
+  }
+]

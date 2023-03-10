@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/bobfae/bobfae.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/bobfae/poisonbobfae.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most efficient flyer, it's a mystery how Bobfae have survived as a species."
+    }
+  }
+]

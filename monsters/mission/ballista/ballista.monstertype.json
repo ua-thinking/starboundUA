@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ballista/ballista.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ballista"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ballista/ballista.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get too close or you might get shafted"
+    }
+  }
+]

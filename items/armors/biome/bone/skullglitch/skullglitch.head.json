@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/bone/skullglitch/skullglitch.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Glitch skull. Well, not exactly a skull, but they tried."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/bone/skullglitch/skullglitch.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch Skull Mask"
+    }
+  }
+]

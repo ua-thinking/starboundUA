@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platform2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/platform2.material": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A wooden platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platform2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/platform2.material": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platformsss."
+    }
+  }
+]

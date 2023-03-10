@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/novakid/novakidfancy/novakidfancy.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Casual rookie duds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/novakid/novakidfancy/novakidfancy.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gunslinger Jacket"
+    }
+  }
+]

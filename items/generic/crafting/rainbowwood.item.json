@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rainbowwood.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Wood"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rainbowwood.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Wood, the most colourful wood of all."
+    }
+  }
+]

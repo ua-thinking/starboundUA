@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/midnight/dark/dark.head": [
+        "/description"
+      ],
+      "items/armors/biome/midnight/darkdisguise/darkdisguise.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The material in this mask is expelling pure darkness."
+    }
+  }
+]

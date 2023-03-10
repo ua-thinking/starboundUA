@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/fancy/fancy.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fancy bowler hat. Distinguished."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/fancy/fancy.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dapper Hat"
+    }
+  }
+]

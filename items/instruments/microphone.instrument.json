@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/microphone.instrument": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A microphone. How low can you go?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/microphone.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low-Pitch Microphone"
+    }
+  }
+]

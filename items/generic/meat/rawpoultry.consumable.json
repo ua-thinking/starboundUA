@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawpoultry.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Poultry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawpoultry.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw poultry. Might wanna cook it first..."
+    }
+  }
+]

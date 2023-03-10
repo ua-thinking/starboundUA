@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/jellyliquid.liquid": [
+        "/description"
+      ],
+      "liquids/slimeliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vile, sticky slime."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/pyramid/pyramid.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pyramid Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/pyramid/pyramid.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somehow not as terrifying as you might expect."
+    }
+  }
+]

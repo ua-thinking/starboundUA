@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/rice.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/rice.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rice. Grains of goodness."
+    }
+  }
+]

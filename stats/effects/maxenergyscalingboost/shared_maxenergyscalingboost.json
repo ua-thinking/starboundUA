@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/maxenergyscalingboost/maxenergyscalingboost.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/maxenergyscalingboost/maxenergyscalingboostfood.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonus Energy"
+    }
+  }
+]

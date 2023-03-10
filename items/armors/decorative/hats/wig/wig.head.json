@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/wig/wig.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An understated wig that's perfect for casual occasions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/wig/wig.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very Subtle Wig"
+    }
+  }
+]

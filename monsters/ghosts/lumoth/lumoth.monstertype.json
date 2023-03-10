@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/lumoth/lumoth.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bulb only stays lit while the Lumoth flaps its wings."
+    }
+  }
+]

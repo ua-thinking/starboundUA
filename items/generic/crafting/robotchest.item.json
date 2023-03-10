@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/robotchest.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A robot chest, strong as steel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/robotchest.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot Chest"
+    }
+  }
+]

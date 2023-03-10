@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/underground_detached/minivillage.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mini Village"
+    }
+  }
+]

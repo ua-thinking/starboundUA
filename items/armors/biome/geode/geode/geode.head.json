@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/geode/geode/geode.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A geode gem mask. It makes your eyes glow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/geode/geode/geode.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Mask"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/snowball.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowball, the perfect size for throwing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/snowball.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowball"
+    }
+  }
+]

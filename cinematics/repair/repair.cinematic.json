@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/repair/repair.cinematic": [
+        "/panels/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "REPAIRING FTL DRIVE..."
+    }
+  }
+]

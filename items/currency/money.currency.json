@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/currency/money.currency": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pixels are a universal currency. They can also be used for 3D Printing."
+    }
+  }
+]

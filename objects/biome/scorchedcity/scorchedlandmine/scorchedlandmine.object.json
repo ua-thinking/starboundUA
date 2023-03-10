@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old, forgotten land mine. It may still be active!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Land Mine"
+    }
+  }
+]

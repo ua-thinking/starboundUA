@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/bars.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick metal bars. Still strong, though decaying with rust."
+    }
+  }
+]

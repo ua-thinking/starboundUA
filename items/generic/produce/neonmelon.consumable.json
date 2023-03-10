@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/neonmelon.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slice of bubblegum flavoured neonmelon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/neonmelon.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neonmelon"
+    }
+  }
+]

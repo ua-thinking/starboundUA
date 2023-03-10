@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid breastplate without the frills."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary's Breastplate"
+    }
+  }
+]

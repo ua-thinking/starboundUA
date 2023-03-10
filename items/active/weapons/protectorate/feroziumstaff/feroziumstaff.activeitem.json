@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/feroziumstaff/feroziumstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferozium Staff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/feroziumstaff/feroziumstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hardened ferozium staff concentrates energy at an impressive distance."
+    }
+  }
+]

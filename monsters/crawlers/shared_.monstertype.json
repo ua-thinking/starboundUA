@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/crustoise/crustoise.monstertype": [
+        "/description"
+      ],
+      "monsters/crawlers/crustoise/icecrustoise.monstertype": [
+        "/description"
+      ],
+      "monsters/crawlers/tentaclecrawler/tentaclecrawler.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sharp spikes can penetrate any space boot."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/pumpsign/pumpsign.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/miningpowersign/miningpowersign.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft glowing sign."
+    }
+  }
+]

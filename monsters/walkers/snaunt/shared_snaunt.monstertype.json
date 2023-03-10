@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/snaunt/electricsnaunt.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/snaunt/snaunt.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's notorious for stealing from vegetable patches."
+    }
+  }
+]

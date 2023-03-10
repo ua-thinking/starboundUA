@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/beamburning/beamburning.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/burning/burning.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning"
+    }
+  }
+]

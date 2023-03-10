@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mercenary cares little for fashion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary's Greaves"
+    }
+  }
+]

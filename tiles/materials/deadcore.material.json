@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/deadcore.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead Core Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/deadcore.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The superdense core of a dead planet. Nearly unbreakable."
+    }
+  }
+]

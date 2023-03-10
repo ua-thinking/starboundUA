@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/holidayspirit.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holiday Spirit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/holidayspirit.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The essence of the holiday season, in its purest form!"
+    }
+  }
+]

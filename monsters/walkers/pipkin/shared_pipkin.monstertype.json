@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/pipkin/pipkin.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/pipkin/poisonpipkin.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despite appearing friendly, it is rarely seen interacting with other Pipkin."
+    }
+  }
+]

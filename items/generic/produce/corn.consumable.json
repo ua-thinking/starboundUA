@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/corn.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/corn.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweet and corny, good for digestion!"
+    }
+  }
+]

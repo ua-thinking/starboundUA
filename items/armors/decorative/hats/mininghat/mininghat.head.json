@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/mininghat/mininghat.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A miners hat, has a light on it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/mininghat/mininghat.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Helmet"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/captainscap/captainscap.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain's Cap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/captainscap/captainscap.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who is the captain?  It must be whoever is wearing this!"
+    }
+  }
+]

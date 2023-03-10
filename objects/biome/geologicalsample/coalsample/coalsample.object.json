@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/coalsample/coalsample.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"A perfect sample of a coal ore.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/coalsample/coalsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coal Sample"
+    }
+  }
+]

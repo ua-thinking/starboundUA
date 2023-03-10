@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/miniknog/miniknog.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard issue helmet for Miniknog soldiers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/miniknog/miniknog.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miniknog Helmet"
+    }
+  }
+]

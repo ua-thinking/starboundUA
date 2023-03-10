@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "blueprint.config": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "<item>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "blueprint.config": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlocks the <item> crafting schematic."
+    }
+  }
+]

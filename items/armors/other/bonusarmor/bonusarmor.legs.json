@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/bonusarmor/bonusarmor.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/bonusarmor/bonusarmor.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These greaves are made from a mysterious material."
+    }
+  }
+]

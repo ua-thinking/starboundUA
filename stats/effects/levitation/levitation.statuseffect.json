@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/levitation/levitation.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Levitation"
+    }
+  }
+]

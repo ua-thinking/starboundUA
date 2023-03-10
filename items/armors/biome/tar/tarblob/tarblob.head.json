@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/tar/tarblob/tarblob.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick tar mask."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/tar/tarblob/tarblob.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Tar Mask"
+    }
+  }
+]

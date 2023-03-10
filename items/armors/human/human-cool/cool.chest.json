@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/human/human-cool/cool.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stylish Jacket"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/human/human-cool/cool.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wearing this faux-leather jacket fills you with confidence."
+    }
+  }
+]

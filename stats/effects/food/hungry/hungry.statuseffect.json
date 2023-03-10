@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/food/hungry/hungry.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hungry"
+    }
+  }
+]

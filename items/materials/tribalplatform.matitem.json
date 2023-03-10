@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tribalplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platforms build from solid temple bricks."
+    }
+  }
+]

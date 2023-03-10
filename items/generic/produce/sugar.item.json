@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/sugar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pure, unadulterated sugary goodness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/sugar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sugar"
+    }
+  }
+]

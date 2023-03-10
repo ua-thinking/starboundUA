@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex.config": [
+        "/messages/learned"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex added to journal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex.config": [
+        "/messages/alreadyKnown"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex already known."
+    }
+  }
+]

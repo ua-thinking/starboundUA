@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gross, sticky tar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Useful tar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky tar."
+    }
+  }
+]

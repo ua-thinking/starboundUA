@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/biomeradiation/biomeradiation.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deadly Radiation"
+    }
+  }
+]

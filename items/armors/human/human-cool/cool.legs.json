@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/human/human-cool/cool.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stylish Bottoms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/human/human-cool/cool.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "When you wear these cool bottoms, you feel as though anything is possible."
+    }
+  }
+]

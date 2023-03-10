@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ixoling/ixoling.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "If it survives for 200 years, it might become an Ixodoom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/mission/ixoling/ixoling.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ixoling"
+    }
+  }
+]
